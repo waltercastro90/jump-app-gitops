@@ -1,4 +1,4 @@
 [submodule "charts"]
 	path = charts
-	url = https://github.com/acidonper/jump-app-helm-charts.git
-	branch = master
+	url = https://github.com/davidseve/jump-app-helm-charts.git
+	branch = test
